@@ -101,8 +101,8 @@
     "unity_must_live_playstore": true,
 
     "kemungkinan_admob": 1000,
-    "minimum_time_admob": 300,
-    "interval_admob": 5,
+    "minimum_time_admob": 0,
+    "interval_admob": 3,
     "admob_open": "-",
     "admob_banner": "ca-app-pub-7752572751466767/2152220427",
     "admob_inter": "ca-app-pub-7752572751466767/7212975410",
