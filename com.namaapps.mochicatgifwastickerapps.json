@@ -100,7 +100,7 @@
     "unity_inter_on": true,
     "unity_must_live_playstore": true,
 
-    "kemungkinan_admob": 200,
+    "kemungkinan_admob": 1000,
     "minimum_time_admob": 0,
     "interval_admob": 3,
     "admob_open": "-",
